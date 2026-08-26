@@ -1,3 +1,4 @@
 Herramienta 1: GIT - HUB 
 Herramienta 2: VISUAL CODE
 Herramienta 3: LINUX
+observación : conocimiento  en programación
