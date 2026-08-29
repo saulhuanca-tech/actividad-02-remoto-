@@ -2,3 +2,8 @@ Nombre: Huanca Marca Saul Elvin
 Carrera: Ingeniería Informática 
 Semestre : II/2026
 Materia : Actualización Tecnologica
+
+correo electrónico: saulelvinh@gmail.com
+número de teléfono: 60402330
+ciudad: Oruro
+descripción académica: "Soy estudiante de Ingeniería Informatica, actualmente en el cuarto semestre en la FNI . Estoy cursando materias relacionadas con desarrollo de software "
