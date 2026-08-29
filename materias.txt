@@ -1,3 +1,3 @@
-materia 1: Actualización Tecnológica
-materia 2: estructura de Datos
-materia 3: Sistemas Operativos  
+materia 1: Actualización Tecnológica   SIS 24220
+materia 2: estructura de Datos         SIS 2310
+materia 3: Sistemas Operativos         INF 2310
